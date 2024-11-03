@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ty {
+    margin: 0 auto;
+    display: block;
+}
